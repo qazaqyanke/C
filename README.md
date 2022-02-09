@@ -3,7 +3,7 @@
 ```C++
 #include <iostream>
 using namespace std;
-int shitcode()
+int code()
 {
   cout << "Hello code" << endl;
 }
